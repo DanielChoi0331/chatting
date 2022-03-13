@@ -1,0 +1,19 @@
+{
+  "name": "chatting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielChoi0331/chatting.git"
+  },
+  "author": "Daniel Choi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielChoi0331/chatting/issues"
+  },
+  "homepage": "https://github.com/DanielChoi0331/chatting#readme"
+}
